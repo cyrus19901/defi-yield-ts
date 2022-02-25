@@ -1,4 +1,4 @@
-import {LENDING_PROGRAM_ID} from '../../utils/ids';
+import {LENDING_PROGRAM_ID} from '../../config';
 import {
   PublicKey,
   SYSVAR_CLOCK_PUBKEY,

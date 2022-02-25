@@ -1,5 +1,5 @@
 import * as BufferLayout from 'buffer-layout';
-import * as Layout from '../../utils/layout';
+import * as Layout from '../../layout';
 import {AccountInfo, PublicKey} from "@solana/web3.js";
 import {Detail} from "./detail";
 import {MintInfo} from "@solana/spl-token";
